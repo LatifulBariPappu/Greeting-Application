@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gretting Application</string>
+    <string name="buttonText">Ok</string>
+    <string name="inputHintText">Your Name</string>
+    <string name="showText">Type your name below</string>
+
+</resources>
